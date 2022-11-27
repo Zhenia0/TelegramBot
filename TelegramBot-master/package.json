@@ -1,0 +1,21 @@
+{
+  "name": "telegrambotjs",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "async": "^3.2.0",
+    "fs": "^0.0.1-security",
+    "cheerio": "^1.0.0-rc.3",
+    "js": "^0.1.0",
+    "node-telegram-bot-api": "^0.50.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": ["news, help, currency, rofl, remind"],
+  "author": "Ivan Kuzmich",
+  "license": "ISC",
+  "description": "Bot with 4 commands"
+}
